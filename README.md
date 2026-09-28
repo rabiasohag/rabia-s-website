@@ -1,6 +1,6 @@
 # Rabia's Website
 
-A simple webpage built with HTML, CSS and JavaScript on CodePen and published with GitHub Pages.
+A simple webpage built with HTML and CSS on CodePen and published with GitHub Pages.
 
 The page was created as part of the University of Edinburgh web and data visualisation workshop. The source was exported from CodePen, and the files from the export's `dist/` folder live in this repository.
 
@@ -8,7 +8,6 @@ The page was created as part of the University of Edinburgh web and data visuali
 
 - `index.html` – the page structure and content
 - `style.css` – the page styling
-- `script.js` – the page behaviour
 
 ## Live site
 
