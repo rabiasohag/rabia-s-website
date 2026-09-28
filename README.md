@@ -1,8 +1,8 @@
-# Rabia's Website
+# Squash: My Favourite Sport
 
-A simple webpage built with HTML and CSS on CodePen and published with GitHub Pages.
+A one-page website about squash, my favourite sport. It explains why I love the game, gives five reasons to try it, and shows a small photo gallery.
 
-The page was created as part of the University of Edinburgh web and data visualisation workshop. The source was exported from CodePen, and the files from the export's `dist/` folder live in this repository.
+The page was built with HTML and CSS on CodePen as part of the University of Edinburgh web and data visualisation workshop, exported from CodePen, and published with GitHub Pages. The files here are the ones from the export's `dist/` folder.
 
 ## Files
 
@@ -11,10 +11,12 @@ The page was created as part of the University of Edinburgh web and data visuali
 
 ## Live site
 
-Once GitHub Pages is switched on (Settings > Pages > Deploy from branch `main`, folder `/root`), the site is available at:
-
 https://rabiasohag.github.io/rabia-s-website/
 
-## Source
+To publish or republish: Settings > Pages > Source "Deploy from a branch", branch `main`, folder `/root`.
+
+## Credits
+
+Images from Wikimedia Commons.
 
 Original CodePen: https://codepen.io/rabiasohag/pen/VYpWora
